@@ -1,4 +1,4 @@
 .venv
 /__pycache__/
 Output_audio/
-*.wav
+Output_audio/*.wav
